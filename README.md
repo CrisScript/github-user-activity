@@ -5,5 +5,5 @@ In this project, you will build a simple command line interface (CLI) to fetch t
 # How to use
 This project was programmed in Python, to use it in the terminal you need to use the following command with your corresponding GitHub user.
 
-python github_activity.py torvalds
+python github_activity.py (Your Username)
 
