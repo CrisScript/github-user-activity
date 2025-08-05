@@ -24,7 +24,7 @@ def main():
 
             print(f"Actividad reciente de @{username}:\n")
 
-            for event in data[:10]:  # Limita a 10 eventos recientes
+            for event in data[:10]: 
                 print(parse_event(event))
 
     except urllib.error.HTTPError as e:
