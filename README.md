@@ -7,5 +7,6 @@ This project was programmed in Python, to use it in the terminal you need to use
 
 python github_activity.py (Your Username)
 
-![Gif gua](github-user-activity/gifuser.gif)
+![Gif GUA](assets/gifuser.gif)
+
 
